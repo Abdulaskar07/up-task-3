@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 50%;
+    margin: 10% auto ;
+    height: 45vh;
+    border: 2px solid black;
+    /* background-color: aqua; */
+    
+
+}
+.container img{
+    height: 80%;
+    width: 100%;
+}
+.container button{
+    margin-top: -4px;
+    color: white;
+    width: 100%;
+    height: 20%;
+    background: rgb(2,0,36);
+    background: linear-gradient(120deg, rgba(2,0,36,0.006127450980392135) 0%, rgba(232,26,214,0.8716736694677871) 35%, rgba(0,172,255,1) 100%)
+};
